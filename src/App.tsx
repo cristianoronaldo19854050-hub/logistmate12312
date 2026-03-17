@@ -170,7 +170,7 @@ const translations: Translations = {
   level3Title: { en: 'Level 3', ru: 'Уровень 3', uz: '3-daraja' },
   level4Title: { en: 'Level 4', ru: 'Уровень 4', uz: '4-daraja' },
   level1Desc: { en: 'Test your fundamental logistics knowledge', ru: 'Проверьте свои базовые знания логистики', uz: 'Logistika bo\'yicha asosiy bilimlaringizni sinab ko\'ring' },
-  level2Desc: { en: 'Challenge yourself with advanced logistics scenarios', ru: 'Испытайте себя в продвинутых сценариях логис��ики', uz: 'Murakkab logistika ssenariylari bilan o\'zingizni sinab ko\'ring' },
+  level2Desc: { en: 'Challenge yourself with advanced logistics scenarios', ru: 'Испытайте себя в продвинутых сценариях логис����ики', uz: 'Murakkab logistika ssenariylari bilan o\'zingizni sinab ko\'ring' },
   level3Desc: { en: 'Master complex logistics operations management', ru: 'Освойте управление сложными логистическими операциями', uz: 'Murakkab logistika operatsiyalarini boshqarishni o\'zlashtiring' },
   level4Desc: { en: 'Demonstrate mastery of advanced logistics concepts', ru: 'Продемонстрируйте мастерство в продвинутых концепциях логистики', uz: 'Ilg\'or logistika tushunchalari bo\'yicha mahoratingizni namoyish eting' },
   unlockLevel2: { en: 'Complete Level 1 with 90% to unlock Level 2', ru: 'Пройдите уровень 1 на 90%, чтобы разблокировать уровень 2', uz: '2-darajani ochish uchun 1-darajani 90% bilan yakunlang' },
@@ -208,7 +208,7 @@ const translations: Translations = {
   },
   updateFieldDesc: {
     en: 'In the fast-paced world of logistics, information is just as important as the physical cargo. The "Update" function is the heartbeat of supply chain visibility, providing critical data points throughout the lifecycle of a shipment:\n\n• Real-Time Tracking: Utilizing GPS and ELD data to provide precise location coordinates of the vehicle.\n• Status Milestones: Automated or manual notifications for key events like "Arrived at Shipper," "Loaded," "In Transit," and "Delivered."\n• ETA Management: Constantly recalculating the Estimated Time of Arrival based on traffic, weather, and driver hours of service.\n• Exception Reporting: Immediate notification of delays, breakdowns, or accidents, allowing for proactive contingency planning.\n• Documentation: Digital updates often include the uploading of Bill of Lading (BOL) or Proof of Delivery (POD) documents.\n\nConsistent and accurate updates build trust with customers, reduce "where is my truck" inquiries, and allow for better planning at both the shipping and receiving docks.',
-    ru: 'В быстро меняющемся мире логистики информация так же важна, как и сам груз. Функция «Обновление» — это сердце прозрачности цепочки поставок, предоставляющая критически важные данные на протяжении всего жизненного цикла груза:\n\n• Отслеживание в реальном времени: Использование данных GPS и ELD для предоставления точных координат местоположения транспортного средства.\n• Статусные вехи: Автоматические или ручные уведомления о ключевых событиях, таких как «Прибыл к отправителю», «Загружен», «В пути» и «Доставлен».\n• Управление ETA: Постоянный пересчет расчетного времени прибытия ��а основе трафика, погоды и часов работы водителя.\n• Отчетность об исключениях: Немедленное уведомление о задержках, поломках или авариях, что позволяет заблаговременно планировать действия в чрезвычайных ситуациях.\n��� ������оку��ентация: Цифровые обновления часто включают загрузку коносамента (BOL) или подтверждения доставки (POD).\n\nПоследовательные и точные обновления укрепляют доверие клиентов, сокращают количество запросов «где мой грузовик» и позволяют лучше планировать работу как на погрузочных, так и на разгрузочных платформах.',
+    ru: 'В быстро меняющемся мире логистики информация так же важна, как и сам груз. Функция «Обновление» — это сердце прозрачности цепочки поставок, предоставляющая критически важные данные на протяжении всего жизненного цикла груза:\n\n• Отслеживание в реальном времени: Использование данных GPS и ELD для предоставления точных координат местоположения транспортного средства.\n• Статусные вехи: Автоматические или ручные уведомления о ключевых событиях, таких как «Прибыл к отправителю», «Загружен», «В пути» и «Доставлен».\n• Управление ETA: Постоянный пересчет расчетного времени прибытия ����а основе трафика, погоды и часов работы водителя.\n• Отчетность об исключениях: Немедленное уведомление о задержках, поломках или авариях, что позволяет заблаговременно планировать действия в чрезвычайных ситуациях.\n��� ������оку��ентация: Цифровые обновления часто включают загрузку коносамента (BOL) или подтверждения доставки (POD).\n\nПоследовательные и точные обновления укрепляют доверие клиентов, сокращают количество запросов «где мой грузовик» и позволяют лучше планировать работу как на погрузочных, так и на разгрузочных платформах.',
     uz: 'Logistikaning shiddatli dunyosida ma\'lumot jismoniy yuk kabi muhimdir. "Yangilanish" funktsiyasi ta\'minot zanjiri ko\'rinishining yuragi bo\'lib, yukning butun hayot aylanishi davomida muhim ma\'lumot nuqtalarini taqdim etadi:\n\n• Haqiqiy vaqtda kuzatish: Transport vositasining aniq joylashuv koordinatalarini taqdim etish uchun GPS va ELD ma\'lumotlaridan foydalanish.\n• Holat bosqichlari: "Yuk jo\'natuvchiga yetib keldi", "Yuklandi", "Tranzitda" va "Yetkazib berildi" kabi asosiy voqealar uchun avtomatlashtirilgan yoki qo\'lda bildirishnomalar.\n• ETA boshqaruvi: Trafik, ob-havo va haydovchining ish soatlari asosida taxminiy yetib kelish vaqtini (ETA) doimiy ravishda qayta hisoblash.\n• Istisno hisoboti: Kechikishlar, buzilishlar yoki baxtsiz hodisalar haqida darhol xabar berish, bu esa faol favqulodda rejalashtirish imkonini beradi.\n• Hujjatlashtirish: Raqamli yangilanishlar ko\'pincha yuk xati (BOL) yoki yetkazib berishni tasdiqlovchi hujjatlarni (POD) yuklashni o\'z ichiga oladi.\n\nDoimiy va aniq yangilanishlar mijozlar bilan ishonchni mustahkamlaydi, "yuk mashinam qayerda" degan so\'rovlarni kamaytiradi va yuk ortish hamda qabul qilish joylarida yaxshiroq rejalashtirish imkonini beradi.'
   },
   dispatchFieldDesc: {
@@ -228,7 +228,7 @@ const translations: Translations = {
   tryAgain: { en: 'Try Again', ru: 'Попробовать снова', uz: 'Yana urinib ko\'ring' },
   backToLevels: { en: 'Back to Levels', ru: 'Назад к уровням', uz: 'Darajalarga qaytish' },
   congratulations: { en: 'Congratulations!', ru: 'Поздравляем!', uz: 'Tabriklaymiz!' },
-  keepLearning: { en: 'Keep learning to unlock the next level.', ru: 'Продолжайте учиться, что��ы ра��блокировать следующий уровень.', uz: 'Keyingi darajani ochish uchun o\'rganishda davom eting.' },
+  keepLearning: { en: 'Keep learning to unlock the next level.', ru: 'Продолжайт�� учиться, что��ы ра��блокировать следующий уровень.', uz: 'Keyingi darajani ochish uchun o\'rganishda davom eting.' },
   safetyBasicsTitle: { en: 'Get Road Smart', ru: 'Будьте умнее на дороге', uz: 'Yo\'lda aqlli bo\'ling' },
   safetyBasicsSub: { 
     en: 'Understand the 7 Behavior Analysis and Safety Improvement Categories (BASICs) to ensure safety and compliance.', 
@@ -285,7 +285,7 @@ const translations: Translations = {
   whatIsEldSub: { en: 'Electronic logging device that replaces paper logbooks', ru: 'Электронное устройство регистрации, заменяющее бумажные журналы', uz: 'Qog\'oz jurnallarni almashtiradigan elektron qayd qurilmasi' },
   howEldsWork: { en: 'How ELDs Work', ru: 'Как работают ELD', uz: 'ELDlar qanday ishlaydi' },
   howEldsWorkSub: { en: 'Automatic recording and data synchronization', ru: 'Автоматическая запись и синхронизация данных', uz: 'Avtomatik yozib olish va ma\'lumotlarni sinxronlashtirish' },
-  keyFeaturesTitle: { en: 'Key Features', ru: 'Ключевые особенности', uz: 'Asosiy xususiyatlar' },
+  keyFeaturesTitle: { en: 'Key Features', ru: 'Ключев��е особенности', uz: 'Asosiy xususiyatlar' },
   keyFeaturesSub: { en: 'Essential ELD components and capabilities', ru: 'Основные компоненты и возможности ELD', uz: 'ELDning muhim komponentlari va imkoniyatlari' },
   regulatoryReqs: { en: 'Regulatory Requirements', ru: 'Нормативные требования', uz: 'Normativ talablar' },
   regulatoryReqsSub: { en: 'FMCSA mandate and compliance details', ru: 'Мандат FMCSA и детали соблюдения', uz: 'FMCSA mandati va muvofiqlik tafsilotlari' },
@@ -470,7 +470,7 @@ const Navbar = ({ activeTab, setActiveTab }: { activeTab: string, setActiveTab: 
   ];
 
   return (
-    <nav className="bg-white border-zinc-200 border sticky top-6 z-50 transition-colors duration-500 rounded-2xl mx-6 mt-6">
+    <nav className="bg-white border-zinc-200 border-b sticky top-0 z-50 transition-colors duration-500">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20 px-6">
           {/* Logo Section */}
@@ -555,10 +555,11 @@ const Navbar = ({ activeTab, setActiveTab }: { activeTab: string, setActiveTab: 
           {/* Actions Section - Right Aligned */}
           <div className="flex items-center justify-end flex-shrink-0 gap-4">
             <div className="hidden md:flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#0099FF] to-[#0077CC] rounded-2xl">
-              <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center font-bold text-[#0099FF]">
-                БИ
-              </div>
-              <span className="text-white font-bold text-sm">BIG-I STUDY</span>
+              <img 
+                src="/bigi-study-logo.jpg" 
+                alt="BIG-I STUDY" 
+                className="h-8 w-auto"
+              />
             </div>
             {user?.role !== 'admin' && (
               <div className="hidden sm:flex items-center gap-3 relative lang-selector">
