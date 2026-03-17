@@ -176,7 +176,7 @@ const translations: Translations = {
   unlockLevel2: { en: 'Complete Level 1 with 90% to unlock Level 2', ru: 'Пройдите уровень 1 на 90%, чтобы разблокировать уровень 2', uz: '2-darajani ochish uchun 1-darajani 90% bilan yakunlang' },
   unlockLevel3: { en: 'Complete Level 2 with 90% to unlock Level 3', ru: 'Пройдите уровень 2 на 90%, чтобы разблокировать уровень 3', uz: '3-darajani ochish uchun 2-darajani 90% bilan yakunlang' },
   unlockLevel4: { en: 'Complete Level 3 with 90% to unlock Level 4', ru: 'Пройдите уровень 3 на 90%, чтобы разблокировать уровень 4', uz: '4-darajani ochish uchun 3-darajani 90% bilan yakunlang' },
-  lockedButton: { en: 'LOCKED - SCORE 90% ON PREVIOUS LEVEL', ru: 'ЗАБЛОКИРОВАНО - НАБЕРИТЕ 90% НА ПРЕДЫДУЩЕМ УРО��НЕ', uz: 'BLOKLANGAN - OLDINGI DARAJADA 90% BALL TO\'PLAN' },
+  lockedButton: { en: 'LOCKED - SCORE 90% ON PREVIOUS LEVEL', ru: 'ЗАБЛОКИРОВАНО - НАБЕРИТЕ 90% НА ПРЕДЫДУЩЕМ У��О��НЕ', uz: 'BLOKLANGAN - OLDINGI DARAJADA 90% BALL TO\'PLAN' },
   yourScore: { en: 'Your Score', ru: 'Ваш балл', uz: 'Sizning ballingiz' },
   startLevel1: { en: 'Start Level 1', ru: 'Начать уровень 1', uz: '1-darajani boshlash' },
   startLevel2: { en: 'Start Level 2', ru: 'Начать уровень 2', uz: '2-darajani boshlash' },
@@ -208,7 +208,7 @@ const translations: Translations = {
   },
   updateFieldDesc: {
     en: 'In the fast-paced world of logistics, information is just as important as the physical cargo. The "Update" function is the heartbeat of supply chain visibility, providing critical data points throughout the lifecycle of a shipment:\n\n• Real-Time Tracking: Utilizing GPS and ELD data to provide precise location coordinates of the vehicle.\n• Status Milestones: Automated or manual notifications for key events like "Arrived at Shipper," "Loaded," "In Transit," and "Delivered."\n• ETA Management: Constantly recalculating the Estimated Time of Arrival based on traffic, weather, and driver hours of service.\n• Exception Reporting: Immediate notification of delays, breakdowns, or accidents, allowing for proactive contingency planning.\n• Documentation: Digital updates often include the uploading of Bill of Lading (BOL) or Proof of Delivery (POD) documents.\n\nConsistent and accurate updates build trust with customers, reduce "where is my truck" inquiries, and allow for better planning at both the shipping and receiving docks.',
-    ru: 'В быстро меняющемся мире логистики информация так же важна, как и сам груз. Функция «Обновление» — это сердце прозрачности цепочки поставок, предоставляющая критически важные данные на протяжении всего жизненного цикла груза:\n\n• Отслеживание в реальном времени: Использование данных GPS и ELD для предоставления точных координат местоположения транспортного средства.\n• Статусные вехи: Автоматические или ручные уведомления о ключевых событиях, таких как «Прибыл к отправителю», «Загружен», «В пути» и «Доставлен».\n• Управление ETA: Постоянный пересчет расчетного времени прибытия на основе трафика, погоды и часов работы водителя.\n• Отчетность об исключениях: Немедленное уведомление о задержках, поломках или авариях, что позволяет заблаговременно планировать действия в чрезвычайных ситуациях.\n• ����оку��ентация: Цифровые обновления часто включают загрузку коносамента (BOL) или подтверждения доставки (POD).\n\nПоследовательные и точные обновления укрепляют доверие клиентов, сокращают количество запросов «где мой грузовик» и позволяют лучше планировать работу как на погрузочных, так и на разгрузочных платформах.',
+    ru: 'В быстро меняющемся мире логистики информация так же важна, как и сам груз. Функция «Обновление» — это сердце прозрачности цепочки поставок, предоставляющая критически важные данные на протяжении всего жизненного цикла груза:\n\n• Отслеживание в реальном времени: Использование данных GPS и ELD для предоставления точных координат местоположения транспортного средства.\n• Статусные вехи: Автоматические или ручные уведомления о ключевых событиях, таких как «Прибыл к отправителю», «Загружен», «В пути» и «Доставлен».\n• Управление ETA: Постоянный пересчет расчетного времени прибытия на основе трафика, погоды и часов работы водителя.\n• Отчетность об исключениях: Немедленное уведомление о задержках, поломках или авариях, что позволяет заблаговременно планировать действия в чрезвычайных ситуациях.\n• ������оку��ентация: Цифровые обновления часто включают загрузку коносамента (BOL) или подтверждения доставки (POD).\n\nПоследовательные и точные обновления укрепляют доверие клиентов, сокращают количество запросов «где мой грузовик» и позволяют лучше планировать работу как на погрузочных, так и на разгрузочных платформах.',
     uz: 'Logistikaning shiddatli dunyosida ma\'lumot jismoniy yuk kabi muhimdir. "Yangilanish" funktsiyasi ta\'minot zanjiri ko\'rinishining yuragi bo\'lib, yukning butun hayot aylanishi davomida muhim ma\'lumot nuqtalarini taqdim etadi:\n\n• Haqiqiy vaqtda kuzatish: Transport vositasining aniq joylashuv koordinatalarini taqdim etish uchun GPS va ELD ma\'lumotlaridan foydalanish.\n• Holat bosqichlari: "Yuk jo\'natuvchiga yetib keldi", "Yuklandi", "Tranzitda" va "Yetkazib berildi" kabi asosiy voqealar uchun avtomatlashtirilgan yoki qo\'lda bildirishnomalar.\n• ETA boshqaruvi: Trafik, ob-havo va haydovchining ish soatlari asosida taxminiy yetib kelish vaqtini (ETA) doimiy ravishda qayta hisoblash.\n• Istisno hisoboti: Kechikishlar, buzilishlar yoki baxtsiz hodisalar haqida darhol xabar berish, bu esa faol favqulodda rejalashtirish imkonini beradi.\n• Hujjatlashtirish: Raqamli yangilanishlar ko\'pincha yuk xati (BOL) yoki yetkazib berishni tasdiqlovchi hujjatlarni (POD) yuklashni o\'z ichiga oladi.\n\nDoimiy va aniq yangilanishlar mijozlar bilan ishonchni mustahkamlaydi, "yuk mashinam qayerda" degan so\'rovlarni kamaytiradi va yuk ortish hamda qabul qilish joylarida yaxshiroq rejalashtirish imkonini beradi.'
   },
   dispatchFieldDesc: {
@@ -472,9 +472,9 @@ const Navbar = ({ activeTab, setActiveTab }: { activeTab: string, setActiveTab: 
   return (
     <nav className="bg-white border-zinc-100 border-b sticky top-0 z-50 transition-colors duration-500">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-20">
+        <div className="flex items-center justify-between h-20 px-6">
           {/* Logo Section */}
-          <div className="flex items-center flex-0">
+          <div className="flex items-center flex-shrink-0">
             <div 
               className="flex-shrink-0 flex items-center cursor-pointer group gap-2" 
               onClick={() => setActiveTab(user?.role === 'admin' ? 'students' : 'home')}
@@ -489,8 +489,8 @@ const Navbar = ({ activeTab, setActiveTab }: { activeTab: string, setActiveTab: 
           </div>
 
           {/* Navigation Items - Centered */}
-          <div className="hidden lg:flex items-center justify-center flex-1">
-            <div className="flex items-center gap-1">
+          <div className="hidden lg:flex items-center justify-center flex-1 px-4">
+            <div className="flex items-center gap-2">
               {tabs.map((tab) => (
                 <div 
                   key={tab.id} 
@@ -553,7 +553,7 @@ const Navbar = ({ activeTab, setActiveTab }: { activeTab: string, setActiveTab: 
           </div>
           
           {/* Actions Section - Right Aligned */}
-          <div className="flex items-center justify-end flex-1 gap-4">
+          <div className="flex items-center justify-end flex-shrink-0 gap-4">
             <div className="hidden md:flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#0099FF] to-[#0077CC] rounded-2xl">
               <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center font-bold text-[#0099FF]">
                 БИ
