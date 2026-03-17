@@ -470,7 +470,7 @@ const Navbar = ({ activeTab, setActiveTab }: { activeTab: string, setActiveTab: 
   ];
 
   return (
-    <nav className="bg-white border-zinc-100 border-b sticky top-0 z-50 transition-colors duration-500">
+    <nav className="bg-white border-zinc-200 border sticky top-6 z-50 transition-colors duration-500 rounded-2xl mx-6 mt-6">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20 px-6">
           {/* Logo Section */}
